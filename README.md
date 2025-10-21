@@ -8,22 +8,22 @@
 
 ### ✨ GitHub Activity Overview
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adindanatasya&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zoldrkn&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=adindanatasya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=zoldrkn&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adindanatasya&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoldrkn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
 ### 📈 Recent GitHub Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adindanatasya&theme=tokyo-night" alt="Adinda's Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zoldrkn&theme=tokyo-night" alt="Adinda's Activity Graph" />
 </p>
 
 ---
@@ -32,7 +32,7 @@
 - 🌱 Currently learning **React**, **Laravel**, and **UI Design**  
 - 💕 Love pastel aesthetics & clean interfaces  
 - ☕ Always open to collaboration  
-- 📫 Reach me at [LinkedIn](https://linkedin.com/in/adindanatasya) or [Instagram](https://instagram.com/adindanatasya)
+- 📫 Reach me at [LinkedIn](https://linkedin.com/in/adindanatasya) or [Instagram](https://instagram.com/127.1.1.25)
 
 ---
 
