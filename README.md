@@ -4,13 +4,6 @@
   💻 web Developer | 🎨 UI/UX Enthusiast | ☕ Matcha Lover
 </p>
 
-### 📈 Recent GitHub Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zoldrkn&theme=tokyo-night" alt="Adinda's Activity Graph" />
-</p>
-
----
-
 ### 🌷 About Me
 - 🌱 Currently learning **React**, **Laravel**, and **UI Design**  
 - 💕 Love pastel aesthetics & clean interfaces  
