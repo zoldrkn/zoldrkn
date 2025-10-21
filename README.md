@@ -1,25 +1,8 @@
 <h1 align="center">🌸 Hi, I'm Adinda! 🌸</h1>
 
 <p align="center">
-  💻 Frontend Developer | 🎨 UI/UX Enthusiast | ☕ Cat Lover
+  💻 web Developer | 🎨 UI/UX Enthusiast | ☕ Matcha Lover
 </p>
-
----
-
-### ✨ GitHub Activity Overview
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zoldrkn&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=zoldrkn&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoldrkn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
 
 ### 📈 Recent GitHub Activity Graph
 <p align="center">
@@ -32,7 +15,7 @@
 - 🌱 Currently learning **React**, **Laravel**, and **UI Design**  
 - 💕 Love pastel aesthetics & clean interfaces  
 - ☕ Always open to collaboration  
-- 📫 Reach me at [LinkedIn](https://linkedin.com/in/adindanatasya) or [Instagram](https://instagram.com/127.1.1.25)
+- 📫 Reach me at [Instagram](https://instagram.com/127.1.1.25)
 
 ---
 
