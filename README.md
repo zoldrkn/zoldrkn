@@ -1,30 +1,48 @@
-<h1 align="center">🌸 Hi, I'm Adinda! 🌸</h1>
+# Hi there, I'm Adinda 👋
 
-<p align="center">
-  💻 web Developer | 🎨 UI/UX Enthusiast | ☕ Matcha Lover
-</p>
-
-### 🌷 About Me
-- 🌱 Currently learning **React**, **Laravel**, and **UI Design**  
-- 💕 Love pastel aesthetics & clean interfaces  
-- ☕ Always open to collaboration  
-- 📫 Reach me at [Instagram](https://instagram.com/127.1.1.25)
+🌿 *Developer who loves clean code, smooth UI, and green vibes.*
 
 ---
 
-### 🩵 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/-Laravel-red?logo=laravel&logoColor=white">
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black">
-</p>
+## 🌱 About Me
+- 💻 Currently working with **Laravel**, **PHP**, and **JavaScript**
+- 🔍 Enjoys debugging and making things run smoother
+- 🎧 Code + music + snacks = perfect combo
+- ☕ Big fan of calm, green-themed workspaces
 
 ---
 
-<p align="center">
-  ![Profile views](https://komarev.com/ghpvc/?username=adindanatasya&color=ff69b4)
-</p>
+## 🛠 Tech Stack
+**Languages & Frameworks:**
+- PHP, Laravel
+- JavaScript, jQuery
+- HTML, CSS, Bootstrap
 
-> “Code beautifully, think creatively, and grow continuously 🌸”
+**Tools:**
+- MySQL
+- Git & GitHub
+- VS Code
+
+---
+
+## 📊 GitHub Stats
+> *(You can enable these after pushing to your repo)*
+```
+![Adinda's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=gruvbox)
+```
+```
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=gruvbox)
+```
+
+---
+
+## 🌿 Green Touch
+> "Keep it simple, keep it clean, keep it green."
+
+---
+
+## 📬 Connect With Me
+Feel free to reach out or connect!
+
+---
+✨ *Thanks for visiting my profile!*
