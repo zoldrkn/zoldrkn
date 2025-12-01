@@ -7,8 +7,6 @@
 ## 🌱 About Me
 - 💻 Currently working with **Laravel**, **PHP**, and **JavaScript**
 - 🔍 Enjoys debugging and making things run smoother
-- 🎧 Code + music + snacks = perfect combo
-- ☕ Big fan of calm, green-themed workspaces
 
 ---
 
@@ -22,17 +20,6 @@
 - MySQL
 - Git & GitHub
 - VS Code
-
----
-
-## 📊 GitHub Stats
-> *(You can enable these after pushing to your repo)*
-```
-![Adinda's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=gruvbox)
-```
-```
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=gruvbox)
-```
 
 ---
 
