@@ -42,8 +42,8 @@
   <img src="https://img.shields.io/badge/Git-333333?style=for-the-badge&logo=git&logoColor=F05032" />
   <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/GitLab-333333?style=for-the-badge&logo=gitlab&logoColor=FC6D26" />
-  <img src="https://img.shields.io/badge/VS%20Code-333333?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-333333?style=for-the-badge&logo=visualstudio&logoColor=5C2D91" />
+  <img src="https://img.shields.io/badge/VS%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-333333?style=for-the-badge&logo=visual-studio&logoColor=5C2D91" />
 </p>
 
 ---
