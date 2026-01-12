@@ -58,15 +58,6 @@
 
 ---
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=zoldrkn&show_icons=true&hide_border=true&title_color=2e621c&icon_color=2e621c&text_color=555&bg_color=FFF" />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoldrkn&layout=compact&custom_title=My%20Programming%20Languages&hide_border=true&title_color=2e621c&text_color=555&bg_color=FFF" />
-</p>
-
----
-
 <p align="center"><b>✨Other Account✨</b></p>
 
 <p align="center">
